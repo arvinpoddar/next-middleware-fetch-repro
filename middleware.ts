@@ -30,5 +30,5 @@ export const config = {
 
   // Only enable this to see that the fetch to `/bravo` does re-enter middleware
   // when using the node runtime.
-  // runtime: "nodejs",
+  runtime: "nodejs",
 };
